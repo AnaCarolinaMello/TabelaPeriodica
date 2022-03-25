@@ -1,0 +1,484 @@
+
+body{background-color: #141414d7;}
+
+td{ border-radius: 7px;
+width: 77px;
+height: 77px;
+text-align: center;}
+
+
+ul{ list-style: none; margin: 0; padding: 0;}
+
+.numero{ margin: 4px;
+    text-align: left;}
+
+.elemento{font-size: 4vh;}
+
+#hidrogenio{ background: #DAF7F6;}
+
+#hidrogenio:hover{
+transform: scale(1.2,1.2);
+box-shadow: 0 0 5px black;}
+
+.gas_nobre{background: #1FDB74;}
+
+.gas_nobre:hover{
+    transform: scale(1.2,1.2);
+    box-shadow: 0 0 5px black;}
+
+.metais_alcalinos_terrosos{background: #FF962B;}
+
+.metais_alcalinos_terrosos:hover{
+    transform: scale(1.2,1.2);
+    box-shadow: 0 0 5px black;}
+
+.metais_alcalinos{background: #F07F76;}
+
+.metais_alcalinos:hover{
+    transform: scale(1.2,1.2);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.425);}
+
+.metais{background: #77bdff;}
+
+.metais:hover{
+    transform: scale(1.2,1.2);
+    box-shadow: 0 0 5px black;}
+
+.semimetais{background: #4BD6AF;}
+
+.semimetais:hover{
+    transform: scale(1.2,1.2);
+    box-shadow: 0 0 5px black;}
+
+.nao_metais{background: #F5E947;}
+
+.nao_metais:hover{
+    transform: scale(1.2,1.2);
+    box-shadow: 0 0 5px black;}
+
+.metais_transicao{background: #3782FA;}
+
+.metais_transicao:hover{
+    transform: scale(1.2,1.2);
+    box-shadow: 0 0 5px black;}
+
+.lantanoides{background: #8e6fd6;}
+
+.lantanoides:hover{
+    transform: scale(1.2,1.2);
+    box-shadow: 0 0 5px black;}
+
+.actinoides{background: #f392ed;}
+
+.actinoides:hover{
+    transform: scale(1.2,1.2);
+    box-shadow: 0 0 5px black;}
+
+#sobra1{text-align: center;
+background: #8e6fd6a9;}
+
+#sobra2{text-align: center;
+    background: #f392eda6;}
+
+.ajuste{height: 19px;}
+
+.margem{height: 35px;}
+
+.arrume{height: 5px;}
+
+#titulo{font-size: 8vh;
+color: white;}
+
+a{color: black;
+text-decoration: none;}
+
+#fim{height: 4px;}
+
+#lant{color: #8e6fd6;
+    text-align: left;
+    font-size: 40px;}
+
+#act{color: #f392ed;
+text-align: left;
+font-size: 40px;}
+
+#img{text-align: left;}
+
+.especial{text-align: left;
+vertical-align: baseline;
+font-size: 25px;}
+
+.fundo{background-color: #c2c2c2;
+text-align: center;
+width: 1400px;
+border-radius: 15px;
+margin-left: 50px;
+margin-right: 50px;}
+
+#nao_metais{list-style-image: url("Imagens/IMG_amarelo.png");}
+
+#hidro{list-style-image: url("Imagens/IMG_branco.png");
+    text-align: center;}
+
+#metais_transicao{list-style-image: url("Imagens/IMG_azule.png");
+    width: max-content;
+    text-align: center;}
+
+#metais{list-style-image: url("Imagens/IMG_azulc.png");}
+
+#semimetais{list-style-image: url("Imagens/IMG_jarvas.png");
+    text-align: center;}
+
+#metais_alcalinos_terrosos{list-style-image: url("Imagens/IMG_laranja.png");
+    width: max-content;
+    text-align: center;}
+
+#metais_alcalinos{list-style-image: url("Imagens/IMG_vermelho.png");
+width: max-content;
+text-align: center;}
+
+#gas_nobre{list-style-image: url("Imagens/IMG_verde.png");
+    text-align: center;}
+
+#lantanoides{list-style-image: url("Imagens/IMG_roxo.png");
+    text-align: center;}
+
+#actinoides{list-style-image: url("Imagens/IMG_rosa.png");
+    text-align: center;}
+
+.dala{background-color:#c5c5c5;
+    width: 700px;
+    height: 870px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px;}
+
+.dale{background-color:#c5c5c5;
+    width: 700px;
+    height: 1180px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dali{background-color:#c5c5c5;
+    width: 700px;
+    height: 720px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dalo{background-color:#c5c5c5;
+    width: 700px;
+    height: 620px;
+    margin: 56px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px;}
+
+.dalu{background-color:#c5c5c5;
+    width: 700px;
+    height: 1285px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.daly{background-color:#c5c5c5;
+    width: 700px;
+    height: 1100px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dela{background-color:#c5c5c5;
+    width: 700px;
+    height: 890px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dele{background-color:#c5c5c5;
+    width: 700px;
+    height: 960px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.deli{background-color:#c5c5c5;
+   width: 700px;
+   height: 860px;
+   margin: 20px 397px 20px 397px;
+   text-align: center;
+   border-radius: 20px}
+
+.delo{background-color:#c5c5c5;
+    width: 700px;
+    height: 805px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px;}
+
+.delu{background-color:#c5c5c5;
+    width: 700px;
+    height: 795px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px;}
+
+.dely{background-color:#c5c5c5;
+    width: 700px;
+    height: 970px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dila{background-color:#c5c5c5;
+    width: 700px;
+    height: 1160px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dile{background-color:#c5c5c5;
+    width: 700px;
+    height: 915px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dili{background-color:#c5c5c5;
+    width: 700px;
+    height: 1008px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dilo{background-color:#c5c5c5;
+    width: 700px;
+    height: 1080px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dilu{background-color:#c5c5c5;
+    width: 700px;
+    height: 1045px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dily{background-color:#c5c5c5;
+   width: 700px;
+   height: 850px;
+   margin: 20px 397px 20px 397px;
+   text-align: center;
+   border-radius: 20px}
+
+.dola{background-color:#c5c5c5;
+    width: 700px;
+    height: 930px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dole{background-color:#c5c5c5;
+    width: 700px;
+    height: 1225px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.doli{background-color:#c5c5c5;
+    width: 700px;
+    height: 1025px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dolo{background-color:#c5c5c5;
+    width: 700px;
+    height: 1270px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dolu{background-color:#c5c5c5;
+    width: 700px;
+    height: 1210px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.doly{background-color:#c5c5c5;
+    width: 700px;
+    height: 695px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px;}
+
+.dula{background-color:#c5c5c5;
+    width: 700px;
+    height: 825px;
+    margin: 70px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px;}
+
+.dule{background-color:#c5c5c5;
+    width: 700px;
+    height: 1120px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.duli{background-color:#c5c5c5;
+    width: 700px;
+    height: 1390px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dulo{background-color:#c5c5c5;
+    width: 700px;
+    height: 670px;
+    margin: 30px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dulu{background-color:#c5c5c5;
+    width: 700px;
+    height: 995px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.duly{background-color:#c5c5c5;
+    width: 700px;
+    height: 1070px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dyla{background-color:#c5c5c5;
+    width: 700px;
+    height: 1140px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dyle{background-color:#c5c5c5;
+    width: 700px;
+    height: 1335px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dyli{background-color:#c5c5c5;
+    width: 700px;
+    height: 1440px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dylo{background-color:#c5c5c5;
+    width: 700px;
+    height: 1350px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dylu{background-color:#c5c5c5;
+    width: 700px;
+    height: 1060px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dyly{background-color:#c5c5c5;
+    width: 700px;
+    height: 940px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dara{background-color:#c5c5c5;
+    width: 700px;
+    height: 750px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dare{background-color:#c5c5c5;
+    width: 700px;
+    height: 980px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dari{background-color:#c5c5c5;
+    width: 700px;
+    height: 1195px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.daro{background-color:#c5c5c5;
+    width: 700px;
+    height: 1170px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.daru{background-color:#c5c5c5;
+    width: 700px;
+    height: 1115px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dary{background-color:#c5c5c5;
+    width: 700px;
+    height: 1520px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+.dera{background-color:#c5c5c5;
+    width: 700px;
+    height: 1247px;
+    margin: 20px 397px 20px 397px;
+    text-align: center;
+    border-radius: 20px}
+
+img.radioativo{margin: 3px 3px 3px 3px; 
+    text-align: left;}
+
+.subtitulo{font-size: 16mm;
+margin-bottom: 25px;
+margin-top: 23px;}
+
+.titulo{vertical-align: middle;
+    text-align: center;
+font-size: 8mm;
+margin: 13px 13px 13px 13px;}
+
+.texto{vertical-align: middle;
+    text-align: center;
+font-size: 6mm;
+margin: 13px 13px 13px 13px;}
+
+img.alinhar{vertical-align: middle;}
+
+img.imagem{margin-bottom: 23px;}
+
+button{size: 12px;
+width: 150px;
+height: 50px;
+background-color:#141414d7;
+color: #ffffff;
+border-radius: 15px;
+font-size: 19px;
+margin-top: 15px;
+cursor: pointer;}
+
+button:hover{background-color: #141414f3;}
+
+
+
